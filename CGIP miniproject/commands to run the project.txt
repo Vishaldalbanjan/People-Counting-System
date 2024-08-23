@@ -1,0 +1,20 @@
+1st- open the command prompt within the folder entering through the folder.
+
+
+2nd-run this command to test the input video and run in the command prompt itself           
+      the command is:
+       python people_counter.py --prototxt detector/MobileNetSSD_deploy.prototxt --model detector/MobileNetSSD_deploy.caffemodel --input utils/data/tests/test_1.mp4
+
+
+
+
+-->so in the above file you can change the video file name and run the different file to test.
+
+
+
+
+-->so to test the different input videos go to the folder and paste the file here in the given path that is:
+
+-->C:\Users\shara\OneDrive\Desktop\CGIP miniproject\People-Counting-in-Real-Time-master\People-Counting-in-Real-Time-master\utils\data\tests
+
+
